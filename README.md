@@ -27,7 +27,7 @@
 ### **Step 1: Run the Mock Banking Server**
 
 #### Using Docker
-1. **Start the server**:
+**Start the server**:
 ```bash
 docker run -d -p 8123:8123 singhacksbjb/sidequest-server:latest
 ```
